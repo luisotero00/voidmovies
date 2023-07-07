@@ -1,0 +1,7 @@
+{
+    "users": [
+      { "id": 1, "email": "reto@movies.com", "password": "react" },
+      { "id": 2, "email": "usuario2@example.com", "password": "contraseña2" },
+      { "id": 3, "email": "usuario3@example.com", "password": "contraseña3" }
+    ]
+  }

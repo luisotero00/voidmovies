@@ -1,0 +1,45 @@
+.headerDetail {
+    text-align: center;
+    margin: 100px 0 150px 0;
+  }
+  
+  .movieDetail {
+    margin-top: 50px;
+  }
+  
+  .movieCard {
+    display: flex;
+    background-color: green;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+   
+  }
+  
+  .moviePoster {
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+  }
+  
+  .movieInfo {
+    text-align: center;
+  }
+  
+  .movieTitle {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .movieOverview {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  .movieDetails {
+    font-size: 18px;
+    margin-top: 10px;
+  }
